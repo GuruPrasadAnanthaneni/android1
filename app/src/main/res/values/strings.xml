@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mp</string>
+
+    <string-array name="artistandgenre">
+         <item > jazz</item>
+         <item > disco</item>
+         <item > hip hop</item>
+         <item > classical</item>
+        <item > rock</item>
+    </string-array>
+</resources>
